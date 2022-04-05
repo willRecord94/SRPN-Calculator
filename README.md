@@ -19,6 +19,6 @@ To use or run the SRPN, run:
 > python srpn.py
 
 You can then interact manually with the calculator or use the tests by running the:
->test_code.py
+>test_srpn.py
 
 
