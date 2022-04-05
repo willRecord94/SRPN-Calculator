@@ -18,11 +18,7 @@ Therefore this was an investigatory project to discover fucntionality and then i
 To use or run the SRPN, run: 
 > python srpn.py
 
-from the root folder. 
-
-You can then interact with the program. 
-
-Or to run automated tests which are stored in test_srpn.py you can run pytest from the terminal.
-
+You can then interact manually with the calculator or use the tests by running the:
+>test_code.py
 
 
